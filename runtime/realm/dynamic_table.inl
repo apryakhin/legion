@@ -15,6 +15,7 @@
 
 // INCLDUED FROM dynamic_table.h - DO NOT INCLUDE THIS DIRECTLY
 
+// TODO(apriakhin): Remove this comment.
 // this is a nop, but it's for the benefit of IDEs trying to parse this file
 #include "realm/dynamic_table.h"
 
