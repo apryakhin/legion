@@ -1,4 +1,4 @@
-# Legion 
+# Legion (apriakhin)
 
 
 [Legion](http://legion.stanford.edu) is a parallel programming model
